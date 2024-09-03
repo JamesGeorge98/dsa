@@ -1,0 +1,8 @@
+name : "dsaproblem"
+
+environment:
+  sdk: '^3.4.4'
+
+dev_dependencies: 
+  test: ^1.25.8
+  very_good_analysis: ^6.0.0

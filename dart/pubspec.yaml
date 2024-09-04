@@ -1,7 +1,7 @@
 name : "dsaproblem"
 
 environment:
-  sdk: '^3.4.4'
+  sdk: '^3.4.1'
 
 dev_dependencies: 
   test: ^1.25.8

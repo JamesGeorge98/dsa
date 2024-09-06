@@ -63,7 +63,10 @@ bool isValidSudoku(List<List<String>> board) {
   for (var i = 0; i < board.length; i++) {
     for (var j = 0; j < board.length; j++) {
       final gridj = j ~/ 3;
-      print([gridj , j]);
+      final gridi = i ~/ 3;
+      print([gridi , j]);
+      print([gridj]);
+
     }
   }
 
